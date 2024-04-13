@@ -6,6 +6,8 @@ so there would be and instruction how to start and also you can join and send so
 what you need 
 * python *(use IDE(vc;pycharm) that you whant or just visit python.org)
   * **from** *matplotlib* *pandas* *numpy* if you want *seaborn* **import** *
+*visit (https://stepik.org/) or other free learning platforms as github))) youtube you name it
+* after come back there and learn
 
 # HOW TO "PRESENT"(no idea how to name it) YOUR PROBLEMS (TEX USAGE)
 * 1) find your problem that you want to solve and... solve it )
