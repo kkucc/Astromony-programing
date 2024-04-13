@@ -4,7 +4,7 @@
 so there would be and instruction how to start and also you can join and send solved problems here
 # HOW TO START
 what you need 
-* python * 
+* python *(use IDE(vc;pycharm) that you whant or just visit python.org)
   * *matplotlib* *pandas* *numpy* if you want *seaborn*
 
 # HOW TO "PRESENT"(no idea how to name it) YOUR PROBLEMS (TEX USAGE)
