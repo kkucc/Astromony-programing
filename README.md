@@ -10,7 +10,7 @@ what you need
 # HOW TO "PRESENT"(no idea how to name it) YOUR PROBLEMS (TEX USAGE)
 * 1) find your problem that you want to solve and... solve it )
 * 2) On the JUPYTER tab, click Download as -> Latex (.tex) and download the zip file
-   * also you can use  google colab
+   * also you can use  google colab(https://colab.research.google.com)
 * 3) On the Overleaf tab, click New Project -> Upload Project and add a zip file 
 * 4) To the file .tex add the babel package with the English, Russian(ur lang) parameters with the second line so that Russian letters are displayed. 
 
