@@ -5,7 +5,7 @@ so there would be and instruction how to start and also you can join and send so
 # HOW TO START
 what you need 
 * python *(use IDE(vc;pycharm) that you whant or just visit python.org)
-  * *matplotlib* *pandas* *numpy* if you want *seaborn*
+  * from *matplotlib* *pandas* *numpy* if you want *seaborn* import *
 
 # HOW TO "PRESENT"(no idea how to name it) YOUR PROBLEMS (TEX USAGE)
 * 1) find your problem that you want to solve and... solve it )
