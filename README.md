@@ -10,7 +10,7 @@ what you need
 * after come back there and learn
   ## ATENTION ipynb NOT py
 
-# HOW TO "PRESENT"(no idea how to name it) YOUR PROBLEMS (TEX USAGE)
+# HOW TO "PRESENT"(no idea how to name it) YOUR PROBLEMS (TEX and jupyter USAGE)
 * 1) find your problem that you want to solve and... solve it )
 * 2) On the JUPYTER tab, click Download as -> Latex (.tex) and download the zip file
    * also you can use  google colab(https://colab.research.google.com)
