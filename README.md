@@ -8,6 +8,7 @@ what you need
   * **from** *matplotlib* *pandas* *numpy* if you want *seaborn* **import** *
 * visit (https://stepik.org/) or other free learning platforms as github))) youtube you name it
 * after come back there and learn
+  ## ATENTION ipynb NOT py
 
 # HOW TO "PRESENT"(no idea how to name it) YOUR PROBLEMS (TEX USAGE)
 * 1) find your problem that you want to solve and... solve it )
