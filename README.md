@@ -15,7 +15,7 @@ what you need
 * 4) To the file .tex add the babel package with the English, Russian(ur lang) parameters with the second line so that Russian letters are displayed.
     
 * https://simpletex.net/ai/latex_ocr for handwriten formulas in TEX
-_ After that, everything should work, the report can be further processed in OVERLEAF, add the name and number of the task, formulas, explanations, etc.
+* After that, everything should work, the report can be further processed in OVERLEAF, add the name and number of the task, formulas, explanations, etc.
 * if you use "%matplotlib notebook" if there are interactive graphs in notepad, then the pictures are not exported at all and instead of a file .zip is downloaded as a regular .tex (So it's better not to use (interactive graphs in the task report are quite strange ...), and if something you need is not displayed in the picture, copy the original picture from notepad by right—clicking on it and add it to the project under the same name)
   # usefull links (russian links only sorry)
 
