@@ -15,3 +15,5 @@ After that, everything should work, the report can be further processed in OVERL
   # usefull links (russian links only sorry)
 
   https://miptstats.github.io/courses/ad_fivt.html
+  https://habr.com/ru/companies/ods/articles/323210/
+  https://habr.com/ru/companies/ods/articles/322626/
