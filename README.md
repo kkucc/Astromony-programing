@@ -5,7 +5,7 @@ so there would be and instruction how to start and also you can join and send so
 # HOW TO START
 what you need 
 * python * **numpy**
-**matplotlib**
+* * *matplotlib**
 **pandas**
 # HOW TO "PRESENT"(no idea how to name it) YOUR PROBLEMS (TEX USAGE)
 * 1) find your problem that you want to solve and... solve it )
