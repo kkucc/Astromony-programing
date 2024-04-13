@@ -1,6 +1,6 @@
 # Astromony-programing
 * compilation of INTERNATIONAL ASTRONOMY PROGRAMING PROBLEMBS
- i guess that woulbe helpful for future generation :)
+ i guess that would be helpful for future generation :)
 so there would be and instruction how to start and also you can join and send solved problems here
 # HOW TO START
 what you need 
